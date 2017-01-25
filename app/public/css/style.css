@@ -1,0 +1,49 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.header-all {
+  color: red;
+  text-align: center;
+  background-color: black;
+  font-size: 4em;
+  font-family: 'VT323';
+  text-transform: uppercase;
+}
+
+.footer-all {
+  color: red;
+  text-align: center;
+  background-color: black;
+  font-size: 2em;
+  font-family: 'VT323';
+  clear; all;
+}
+
+.form-all {
+  color: red;
+  background-color: black;
+  font-size: 1.5em;
+  font-family: 'VT323';
+  clear; all;
+}
+
+button {
+  background-color: red;
+  font-size: 2em;
+  font-family: 'VT323';
+  border: none;
+  border: 2px solid black;
+}
+
+a {
+  background-color: red;
+  font-size: 2em;
+  font-family: 'VT323';
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  border: 2px solid black;
+}
